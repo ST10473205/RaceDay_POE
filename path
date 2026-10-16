@@ -1,0 +1,4 @@
+This path carries:
+AuthController(Validates the registration, login and logout)
+EventController(For Crud, categories and enrolment and enrolment)
+ProfileController(For viewing, updating and deleting the logged in users profile)
