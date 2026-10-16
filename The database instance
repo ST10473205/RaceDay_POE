@@ -1,0 +1,2 @@
+Server=(localdb)\\api_endpoint;Database:RaceDayDB;
+    This allows connection between apis and database
